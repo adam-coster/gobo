@@ -1,0 +1,4 @@
+# Ignore everything by default
+**/*
+# Allow compiled files
+!out/**/*
